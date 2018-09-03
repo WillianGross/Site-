@@ -24,6 +24,14 @@ h1{
 html{
 
     background-attachment: scroll;
-    background-color: pink;
+    background-color:gray;
     background-size: 500px; 
+
+
+}
+
+divimg{
+
+    border-image: 3px;
+    object-position: center;
 }
