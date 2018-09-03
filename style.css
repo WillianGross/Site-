@@ -1,0 +1,29 @@
+p{
+
+    color: black;
+    width: 500px;
+   border: 2px solid black;
+    
+}
+
+article{
+    color: blue
+}
+
+body{
+
+    size: 500px
+    
+    
+}
+h1{
+
+    font-size: 60px;
+    font-weight: 400;
+}
+html{
+
+    background-attachment: scroll;
+    background-color: bisque;
+    background-size: 500px; 
+}
