@@ -42,3 +42,10 @@ div{
     object-position: center;
     text-align: center;
 }
+
+img{
+
+    size: 300px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
