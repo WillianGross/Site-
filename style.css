@@ -2,21 +2,21 @@ p{
 
     color: black;
     width: 500px;
-    text-align: center;
+
    
     
 }
 
 article{
     color: blue;
-    text-align: center;
+    
 }
 
 body{
 
     size: 500px;
     margin: 10px 20px;
-    text-align: center;
+   
     font-family: Arial, sans-serif;
     
     
@@ -40,12 +40,12 @@ div{
 
     border-image: 3px;
     object-position: center;
-    text-align: center;
+
 }
 
 img{
 
-    size: 300px;
+    max-inline-size: 300px;
     margin-left: 250px;
     margin-right: 250px;
 }
