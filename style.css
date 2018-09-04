@@ -12,7 +12,10 @@ article{
 
 body{
 
-    size: 500px
+    size: 500px;
+    margin: 10px 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
     
     
 }
